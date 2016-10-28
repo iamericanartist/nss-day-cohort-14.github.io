@@ -2,21 +2,22 @@
 
 ## [NSS](http://nashvillesoftwareschool.com/) Cohort D14  
 #### Instructors -  
-[Joe Shephard](https://github.com/JoeShep)(Front-End)  
-[Scott Humphries](https://github.com/sscotth)(Back-End)  
+[Joe Shephard](https://github.com/JoeShep) (Front-End)  
+[Scott Humphries](https://github.com/sscotth) (Back-End)  
 
 #### Advisors -  
 [Caitlin Stein](https://github.com/C-Stein)  
 [Callan Morrison](https://github.com/morecallan)  
-[Christina Young](https://github.com/ChristinaJYoung) 
+[Christina Young](https://github.com/ChristinaJYoung)  
 [Mathew Ostrander](https://github.com/MAOstrander)  
 
 #### Cohort 14 Website Contributors -  
 [Alex Horton](https://github.com/alexhortonmusic) (Project Lead)  
+[Tim Creasy](https://github.com/timcreasy)  
 [Tyler Daniel](https://github.com/iamtylerd)  
 [Eric Denton](https://github.com/iamericanartist)  
 [John D. Hamm](https://github.com/JohnDHamm)  
-[Tim Creasy](https://github.com/timcreasy)  
+[Matt Latham](https://github.com/lathammatt)  
 [Dominic Serrano](https://github.com/DominicSerranoC14)  
 [Lauren Cherie Smith](https://github.com/laurensaurenson) (Design Lead)  
 
@@ -57,7 +58,7 @@ We also learned the key features and capabilities of Javascript and the MEAN sta
 
 Sincerely,
 
-#### [Cohort 14](https://github.com/orgs/nss-day-cohort-14/people)  
+### [Cohort 14](https://github.com/orgs/nss-day-cohort-14/people)  
 
 <div>
   <a href="https://nss-day-cohort-14.github.io/"><img align="center" src="img/Group/GraphicsGroupShotC14.jpg"></a>
